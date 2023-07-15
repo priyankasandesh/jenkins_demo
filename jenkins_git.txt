@@ -3,3 +3,4 @@ adding new line
 1st git commit to check pol scm
 
 5th line
+6th line
